@@ -1,4 +1,6 @@
-SLIDES SHOWS TO FRONTEND VIEW OF APPLICATION![CC1](https://user-images.githubusercontent.com/47866310/157899128-640e888b-ee47-46b9-b033-592887700b5f.PNG)
+SLIDES SHOWS TO FRONTEND VIEW OF APPLICATION
+==========================================================================================================
+![CC1](https://user-images.githubusercontent.com/47866310/157899128-640e888b-ee47-46b9-b033-592887700b5f.PNG)
 ![CC2](https://user-images.githubusercontent.com/47866310/157899137-823ae4f3-6574-470f-aa15-132018da57d3.PNG)
 ![CC3](https://user-images.githubusercontent.com/47866310/157899142-0bea83dc-8510-4cb6-9be0-fa3b124cbd8a.PNG)
 ![CC4](https://user-images.githubusercontent.com/47866310/157899144-d64d7b72-7829-4f10-8a78-68ae2d5d949a.PNG)
